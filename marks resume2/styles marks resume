@@ -1,0 +1,20 @@
+html {
+    width: 500%;
+    height: 500%;
+    overflow: hidden;
+}
+header {
+  font-family: "Trebuchet MS", Verdana, sans-serif;
+  text-align: right;
+}
+body {
+  font-family: sans-serif;
+}
+
+p {
+  background: rgb(255,75,0);
+  border: 2px dotted rgb(150,75,104);
+  padding: 10px;
+  margin: 10px;
+  border-radius: 5px;
+}
